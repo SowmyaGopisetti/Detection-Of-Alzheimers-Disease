@@ -7,6 +7,9 @@ Dependencies:
 2.pandas: For data manipulation.
 3.scikit-learn: For machine learning algorithms and utilities.
 4.imbalanced-learn (imblearn): For data augmentation using SMOTE.
+
+
+
 Steps:
 1.Import Libraries: Import necessary libraries including matplotlib, pandas, and various modules from scikit-learn.
 
